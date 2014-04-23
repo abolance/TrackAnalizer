@@ -1,0 +1,46 @@
+ENLACES NECESARIOS
+
+PARSE.COM
+	https://parse.com/tutorials
+	https://www.parse.com/docs/js_guide#fbusers
+	http://blog.parse.com/2013/06/04/building-parse-web-apps-with-the-express-web-framework/
+	http://code.tutsplus.com/tutorials/getting-started-with-parse--net-28000
+	http://www.raymondcamden.com/index.cfm/2012/9/14/Example-of-a-Parsecom-JavaScript-application-with-offline-support
+	http://forum.unity3d.com/threads/199563-Parse-com-DEMO-with-Login-Account-Creation-High-scores-and-more
+
+KML
+	https://developers.google.com/kml/faq?hl=es
+	https://developers.google.com/earth/documentation/kml?hl=es
+	https://developers.google.com/kml/documentation/mapsSupport
+	https://developers.google.com/kml/documentation/topicsinkml?hl=es
+	https://developers.google.com/kml/documentation/kml_tut?hl=es
+	https://developers.google.com/kml/documentation/kml_21tutorial?hl=es
+	http://www.kmlvalidator.com/home.htm
+	http://extension.unh.edu/kmlTools/index.cfm
+
+GIS
+	http://resources.arcgis.com/es/home/
+	http://www.gpsvisualizer.com/
+	http://www.google-earth.es/foros.php?t=6812
+	http://www.foromtb.com/threads/como-se-calcula-el-desnivel.5675/
+	http://sourceforge.net/projects/gproko/
+
+GOOGLE + PHP + MySQL
+	http://wern-ancheta.com/blog/2012/08/27/using-google-maps-with-mysql/
+	http://minimizr.com/blog/2006/10/21/minimal-how-to-use-google-maps-api-with-php/
+	http://www.w3schools.com/googleapi/default.asp
+	https://developers.google.com/maps/articles/phpsqlajax_v3?hl=es
+	http://imanzana.eu/?cat=46
+	http://www.google-earth.es/foros.php?f=29	
+	http://stackoverflow.com/questions/8342337/parse-kml-file-with-php
+	http://stackoverflow.com/questions/11443414/get-coordinates-from-kml
+	http://code.google.com/p/geoxml3/
+
+API GOOGLE
+	https://developers.google.com/maps/documentation/elevation/?csw=1
+	https://developers.google.com/maps/documentation/javascript/services
+	http://gmaps-samples-v3.googlecode.com/svn/trunk/elevation/elevation-profile.html
+
+GOOGLE EARTH
+	https://developers.google.com/earth/documentation/reference/?hl=es
+	http://localhost/SegmentAnalize/Earth.html
