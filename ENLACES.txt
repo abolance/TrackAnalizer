@@ -44,3 +44,6 @@ API GOOGLE
 GOOGLE EARTH
 	https://developers.google.com/earth/documentation/reference/?hl=es
 	http://localhost/SegmentAnalize/Earth.html
+
+HTML5
+	http://blog.webagesolutions.com/archives/419/comment-page-1
